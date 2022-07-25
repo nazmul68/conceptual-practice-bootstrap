@@ -1,3 +1,10 @@
-.navbar-nav {
-    ms-auto
+.toast-parent {
+    position: relative;
+}
+
+.toast-child {
+    position: absolute;
+    right: -100px;
+    top: 30%;
+
 }
